@@ -10,3 +10,12 @@ The app is currently hosted on [Pivotal Cloud Foundry](https://pivotal.io/platfo
 
 The design for this website comes from [Nathan Brown hosted on wegraphics.net](http://wegraphics.net/downloads/one-a-free-one-page-web-resume-template/)
 
+## Pushing the app onto Cloud Foundry
+
+```
+cd HTML
+cf push -b staticfile_buildpack samyukta
+```
+
+### Helpful Links
+[How to configure and push a static website ?](http://docs.cloudfoundry.org/buildpacks/staticfile/)
