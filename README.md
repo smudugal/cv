@@ -1,6 +1,6 @@
 # CV
 
-Go To [samyukta.cfapps.io](http://samyukta.cfapps.io/) .to see my CV!!
+Go To <a href="http://samyukta.cfapps.io/" target="_blank">samyukta.cfapps.io</a>.to see my CV!!
 
 This is an app for my curriculum vitae. It is a static file website.
 
@@ -14,8 +14,8 @@ The design for this website comes from [Nathan Brown hosted on wegraphics.net](h
 
 ```
 cd HTML
-cf push -b staticfile_buildpack samyukta
+cf push -b staticfile_buildpack APP_NAME
 ```
 
 ### Helpful Links
-[How to configure and push a static website ?](http://docs.cloudfoundry.org/buildpacks/staticfile/)
+[How to configure and push a static website?](http://docs.cloudfoundry.org/buildpacks/staticfile/)
