@@ -1,6 +1,6 @@
 # CV
 
-Go To <a href="http://samyukta.cfapps.io/" target="_blank">samyukta.cfapps.io</a>.to see my CV!!
+Go To <a href="http://samyukta.cfapps.io/" target="_blank">samyukta.cfapps.io</a> to see my CV!!
 
 This is an app for my curriculum vitae. It is a static file website.
 
