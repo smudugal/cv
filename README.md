@@ -1,6 +1,6 @@
 # CV
 
-Go To samyukta.cfapps.io to see my CV!!
+Go To [samyukta.cfapps.io](http://samyukta.cfapps.io/) .to see my CV!!
 
 This is an app for my curriculum vitae. It is a static file website.
 
