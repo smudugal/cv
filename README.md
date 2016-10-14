@@ -14,7 +14,7 @@ The design for this website comes from [Nathan Brown hosted on wegraphics.net](h
 
 ```
 cd HTML
-cf push -b staticfile_buildpack APP_NAME
+cf push
 ```
 
 ### Helpful Links
